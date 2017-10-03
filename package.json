@@ -1,0 +1,18 @@
+{
+  "name": "content-finder",
+  "version": "0.1.0",
+  "description": "Module for finding main content on the HTML page. Adapted from Readability An Arc90 Lab Experiment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pawel Dubiel",
+  "license": "Apache License 2.0",
+  "dependencies": {
+    "jsdom": "^11.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pawel-dubiel/content-finder.git"
+  }
+}
